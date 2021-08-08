@@ -3,6 +3,8 @@ module sport_backend
 go 1.16
 
 require (
+	firebase.google.com/go v3.13.0+incompatible // indirect
+	firebase.google.com/go/v4 v4.6.0 // indirect
 	github.com/gin-gonic/gin v1.7.2 // indirect
 	github.com/go-playground/validator/v10 v10.8.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
